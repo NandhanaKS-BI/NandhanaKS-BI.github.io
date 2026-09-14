@@ -502,3 +502,7 @@ footer p {
         padding-bottom: 30px;
     }
 }
+/* Skills Layout Fix */
+.skills-table {
+    grid-template-columns: repeat(4, 1fr) !important;
+}
