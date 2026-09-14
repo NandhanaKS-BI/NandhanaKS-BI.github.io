@@ -394,7 +394,6 @@ nav ul li a:hover::after {
     }
 }
 ```
-
 /* --- 7. Contact Form --- */
 #contact .container {
     max-width: 800px;
@@ -448,7 +447,6 @@ nav ul li a:hover::after {
     border: none;
     cursor: pointer;
 }
-
 /* --- 8. Footer --- */
 footer {
     background: var(--primary-color);
